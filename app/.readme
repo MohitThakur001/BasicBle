@@ -1,0 +1,5 @@
+
+    -> Constants - Class For constant variables like : appId , versionCode etc.
+    -> Serial Listeners - An interface for callback methods like: onSerialConnect,onSerialRead etc. of Serial Service class.
+    -> Serial Services - A Class used to connect , disconnect , attach , detach from the Serial socket .
+    -> Serial Socket - A class to wrap BLE communication into socket like class - connect, disconnect and write as methods.
